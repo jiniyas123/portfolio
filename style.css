@@ -1,0 +1,54 @@
+.bannerBgImage{
+    height: 100vh;
+    background: url("/images/bannerimage.jpg");
+    background-size: cover;
+    position: relative;
+}
+.bannerText{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+}
+.bannerTitle1{
+    font-size: 4rem;
+    text-decoration: none;
+    color: aliceblue;
+}
+.bannerTitle{
+    color: aliceblue;
+}
+.bannerDesc{
+    font-size: 2rem;
+}
+.projectSection{
+    background-color: aquamarine;
+    margin-top: 5%;
+}
+.servicesSection{
+    background-image:url("/images/servicesImage.jpg");
+    background-size: cover;
+    margin-top: 5%;
+}
+#contact{
+    margin-top: 5%;
+    margin-bottom: 6%;
+}
+#about{
+    margin-top: 5%;
+}
+#contact{
+    background-color: white;
+    border-radius: 5%;
+    border: 1px solid rgb(255, 72, 0);
+}
+.bt{
+    display: flex;
+    margin: auto;
+}
+
+
+  
+  
